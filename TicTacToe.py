@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 
+encoding = "utf-8"
 
 class TicTacToe:
     def __init__(self, root):
